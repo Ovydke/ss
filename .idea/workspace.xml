@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a23298b9-b126-40c0-ab87-320670db750a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea.rar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/soriseni.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/droid.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img.rar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/Foto.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/LOGO.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/Screen Shot 2018-04-04 at 22.00.41.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/balloon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/cocktail.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/dj.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/horn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/mixer.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/music-note.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/party.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/profile.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules.rar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-grid.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/alert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/alert.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/button.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/carousel.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/collapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/collapse.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dropdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/dropdown.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/index.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/modal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/modal.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/popover.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/popover.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/scrollspy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/scrollspy.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tab.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tab.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tooltip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/tooltip.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/util.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/dist/util.js.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/alert.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/button.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/collapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/dropdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/modal.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/popover.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/scrollspy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/tab.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/tooltip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/js/src/util.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_alert.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_badge.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_breadcrumb.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_button-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_card.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_carousel.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_close.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_code.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_custom-forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_dropdown.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_functions.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_images.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_input-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_jumbotron.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_list-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_media.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_modal.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_nav.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_navbar.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_pagination.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_popover.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_print.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_progress.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_reboot.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_root.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_tables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_tooltip.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_transitions.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_type.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_utilities.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap-reboot.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/bootstrap.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_alert.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_background-variant.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_badge.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_border-radius.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_box-shadow.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_breakpoints.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_buttons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_caret.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_clearfix.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_float.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_gradients.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_grid-framework.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_grid.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_hover.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_image.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_list-group.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_lists.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_nav-divider.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_navbar-align.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_pagination.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_reset-text.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_resize.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_screen-reader.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_size.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_table-row.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_text-emphasis.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_text-hide.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_text-truncate.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_transition.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/mixins/_visibility.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_align.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_background.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_borders.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_clearfix.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_display.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_embed.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_flex.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_float.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_position.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_screenreaders.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_sizing.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_spacing.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_text.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/bootstrap/scss/utilities/_visibility.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/.npmignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/LICENSE-MIT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/grunt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/lib/node-jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/src/wrapper.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/test/core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/test/css.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/test/fixtures/core.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/test/fixtures/css.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/test/fixtures/css.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/test/helpers/helper.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/node_modules/jQuery/tmp/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/style.css" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="88" column="29" lean-forward="false" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6630">
+              <caret line="390" column="5" lean-forward="false" selection-start-line="390" selection-start-column="5" selection-end-line="390" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="package_json" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="47" />
+    <option name="y" value="210" />
+    <option name="width" value="1280" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="soriseni" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soriseni" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a23298b9-b126-40c0-ab87-320670db750a" name="Default" comment="" />
+      <created>1522960831716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522960831716</updated>
+      <workItem from="1522960833278" duration="44303000" />
+      <workItem from="1523197412968" duration="342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44645000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27455357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3288364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="29" lean-forward="false" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6630">
+          <caret line="390" column="5" lean-forward="true" selection-start-line="390" selection-start-column="5" selection-end-line="390" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6630">
+          <caret line="390" column="5" lean-forward="false" selection-start-line="390" selection-start-column="5" selection-end-line="390" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="88" column="29" lean-forward="false" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
